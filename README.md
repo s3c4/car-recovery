@@ -20,7 +20,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 # License
 
-[MIT](https://github.com/s3c4/lazy/blob/master/LICENSE) © [Andrei Secareanu](https://github.com/s3c4)
+[MIT](https://github.com/s3c4/lazy?tab=MIT-1-ov-file) © [Andrei Secareanu](https://github.com/s3c4)
 
 Made with :blue_heart: from London
 
